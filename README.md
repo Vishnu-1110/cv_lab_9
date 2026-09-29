@@ -63,7 +63,7 @@ The output contains:
 
 ### Output Image
 
-![Gaussian Noise Output](output.png)
+![Gaussian Noise Output](output.jpg)
 
 ## Result
 
